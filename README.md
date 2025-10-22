@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sashakt Keshri</h1>
 <h3 align="center">I’m a pre-final year engineering student at BITS Goa. I enjoy building projects in web development, data science, and finance tech domains.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sashakt1290" alt="sashakt1290" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sashakt1290&theme=onedark" alt="sashakt1290" /></a> </p>
 
 - 📫 How to reach me **sashakt1290@gmail.com**
 
